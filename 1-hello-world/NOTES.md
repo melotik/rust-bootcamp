@@ -32,4 +32,4 @@ First day of rust bootcamp covering the basics and setup coding enviornment.
 - [rust-analyzer](https://rustup.rs/)
 - [Rust playground](https://play.rust-lang.org/)
 - [Rust Book](https://doc.rust-lang.org/book/)
-- [Next Lesson](https://docs.microsoft.com/en-us/learn/modules/rust-set-up-environment/5-hello-world?ns-enrollment-type=learningpath&ns-enrollment-id=learn.languages.rust-first-steps&pivots=linux)
+- [Next Lesson](hhttps://docs.microsoft.com/en-us/learn/modules/rust-create-program/7-exercise?ns-enrollment-type=learningpath&ns-enrollment-id=learn.languages.rust-first-steps)
