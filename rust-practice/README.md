@@ -71,3 +71,8 @@ let a: [i32; 5] = [1, 2, 3, 4, 5];
 ### Functions
 
 - `main()` is the entry point for rust programs
+- variables are concrete values that must be in a function call
+  - They are called *arguments*
+- The type must be declared in each funciton declaration
+- A statement (`let y = 6`) does not return a value and cannot be assigned to other variables
+- 
