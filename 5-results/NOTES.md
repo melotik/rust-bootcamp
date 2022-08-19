@@ -25,7 +25,8 @@ Second day of rust bootcamp. We will build a car factory.
 
 ## Referencing
 
-- You can read the chapters on Referencing and Borrowing to understand this better and learn how `rust` prevents data races
+- You can read the chapters on [Referencing and Borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html) to understand this better and learn how `rust` prevents data races
+- How to setup substreams development env https://substreams.streamingfast.io/developer-guide/overview
 
 
 
