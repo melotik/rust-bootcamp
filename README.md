@@ -1,3 +1,3 @@
 # Rust Bootcamp
 
-Learning rust to build subgraphs using substreams.
+Learning rust to build substreams.
